@@ -13,7 +13,7 @@ Epy Games est un studio amateur de jeux vidéos né de la fusion entre le célè
 
 ## ✅ Informations
 
-Pour jouer à notre jeu RaftWish, il suffit de télécharger le repository "EpyGames" et de lancer le fichier "game.py" avec Python3 (avoir pygame d'installé). Le jeu se joue clavier / manette Xbox + souris.
+Pour jouer à notre jeu RaftWish, il suffit de télécharger le repository "Raftwish" et de lancer le fichier "game.py" avec Python3 (avoir pygame d'installé). Le jeu se joue clavier / manette Xbox + souris.
 
 ---
 
